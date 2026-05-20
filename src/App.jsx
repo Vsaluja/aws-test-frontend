@@ -48,11 +48,6 @@ function App() {
               <span>Profession</span>
               <p>{profile.profession}</p>
             </div>
-
-            <div>
-              <span>Cloud Learning</span>
-              <p>{profile.cloudLearning ? "Yes" : "No"}</p>
-            </div>
           </div>
         </section>
       )}
